@@ -32,3 +32,9 @@ Testing code blocks:
 $ ls
 'Files will appear here!'
 ```
+
+CheckBoxes:
+
+- [ ] first task
+- [ ] second task
+- [ ] third task
